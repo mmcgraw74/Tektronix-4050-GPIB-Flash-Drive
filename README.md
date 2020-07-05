@@ -7,7 +7,6 @@ These computers integrated a 12 inch direct view storage tube (DVST) for 1024x78
 The internal tape drive in the 4051 is to the right of the display in the photo.
 
 The external Tektronix 4924 GPIB Tape Drive is also in this photo with a GPIB cable.
-
 ![Label and PCB front](./4051%20and%204924%20on%20EBAY%20for%204000.jpg)
 
 In the 45 years since the introduction of the 4051 - the DC300 program tapes that have been found have been increasingly difficult to recover the original program files - as most of the tape internal drive belts have deteriorated, and in many cases damaged the oxide where they were in contact with the supply and takeup reels.
