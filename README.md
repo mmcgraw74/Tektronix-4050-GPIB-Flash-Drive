@@ -62,4 +62,10 @@ I had to move some of the GPIB pins in Emanuele's layout to attach the microSD c
 
 However, Emanuele's Arduino code only supports GPIB controller mode - and for my project I need the tape emulator to be a GPIB device, as the 4050 series computers must be the GPIB controller.
 
+I recently found two additional github projects with Arduino GPIB interfaces that may help me finish my Tektronix 4050 GPIB Flash Drive project:
 
+https://github.com/Tek-User/Tektronix-GPIB-Download
+
+https://github.com/Twilight-Logic/AR488
+
+This last project is the most interesting as it supports both controller mode and device mode, and also supports several types of Arduino boards.
