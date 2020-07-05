@@ -33,6 +33,7 @@ OLD @5:
 The FIND @5: 10 BASIC statement resulted in a GPIB write to address 5,27 with a data value of 10, where the 27 was interpreted as the FIND command by the tape drive.
 
 Here is a table of Tektronix 4050 BASIC GPIB Primary/Secondary addresses:
+
 ![Label and PCB front](./Tek%20basic%20primary%20addresses.png)
 
 Later GPIB devices from Tektronix and other companies did not support secondary GPIB addresses and used a GPIB command-based protocol.
