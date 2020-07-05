@@ -18,7 +18,24 @@ This project will create an emulator of the external Tektronix 4924 GPIB tape dr
 
 There are several other projects that have created similar flash drive emulators - particularly to emulate vintage floppy drives.
 
-The Tektronix 4050 computers were introduced along with the GPIB interface - and took advantage of both primary and secondary GPIB addresses, in Tektronix 4050 BASIC, which allowed many of the BASIC statements to be used not only with the internal display and tape drive, but also with external GPIB plotters and external tape drives.
+The Tektronix 4050 computers were introduced along with the GPIB interface - and took advantage of both primary and secondary GPIB addresses in Tektronix 4050 BASIC, which allowed many of the BASIC statements to be used not only with the internal display and tape drive, but also with external GPIB plotters and external tape drives.
+
+One example of Tektronix primary/secondary GPIB addressing would be loading a program from internal tape versus external tape:
+
+To load the tenth file on an internal tape:
+FIND 10
+OLD
+
+To load the tenth file on an external 4924 tape drive with GPIB address 5:
+FIND @5: 10
+OLD @5:
+
+The FIND @5: 10 BASIC statement resulted in a GPIB write to address 5,27 with a data value of 10, where the 27 was interpreted as the FIND command by the tape drive.
+
+Here is a table of Tektronix 4050 BASIC GPIB Primary/Secondary addresses:
+![Label and PCB front](./Tek%20basic%20primary%20addresses.png
+
+
 
 Later GPIB devices from Tektronix and other companies did not support secondary GPIB addresses and used a GPIB command-based protocol.
 
