@@ -11,9 +11,6 @@ The external Tektronix 4924 GPIB Tape Drive is also in this photo with a GPIB ca
 
 In the 45 years since the introduction of the 4051 - the DC300 program tapes that have been found have been increasingly difficult to recover the original program files - as most of the tape internal drive belts have deteriorated, and in many cases damaged the oxide where they were in contact with the supply and takeup reels.
 
-I have a separate repository for dozens of tapes that I have recovered:
-https://github.com/mmcgraw74/Tektronix-4051-4052-4054-Program-Files
-
 This project will create an emulator of the external Tektronix 4924 GPIB tape drive, to eliminate the need to repair the 4050 series internal tape drive, or find the rare replacement tapes - long out of production.
 
 There are several other projects that have created similar flash drive emulators - particularly to emulate vintage floppy drives.
@@ -47,6 +44,9 @@ Therefore this project will not have broad applicability for other computers wit
 ----
 Here is a link to my thread on vcfed.org forum for this project:
 http://www.vcfed.org/forum/showthread.php?64018-Tektronix-405x-GPIB-Flash-Drive&p=518793#post518793
+---
+Here is the link to my github repository for Tektronix 4050 program tapes, ROM Pack firmware and a couple of documents:
+https://github.com/mmcgraw74/Tektronix-4051-4052-4054-Program-Files
 ---
 My first hardware version was based on Emanuele Girlando's Arduino GPIB sketch which can be found here:
 http://egirland.blogspot.com/2014/03/arduino-uno-as-usb-to-gpib-controller.html
