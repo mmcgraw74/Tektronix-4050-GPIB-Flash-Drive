@@ -2,7 +2,9 @@
 Tape Drive emulator for Tektronix 4050 series (4051/4052/4054) computers using an SD (or microSD) card for storage.
 
 The Tektronix 4050 series of computers was introduced in 1975 with the 4051 using a Motorola 6800 CPU with 32KB of BASIC in ROM and 32KB of DRAM.
-These computers integrated a 12 inch direct view storage tube (DVST) for 1024x780 addressable vector graphics, keyboard, and a 3M DC300 tape drive for program storage.  The tape slot in the 4051 is to the right of the screen in the photo below.  A Tektronix 4924 GPIB Tape Drive is to the right of the 4051 in the photo.
+These computers integrated a 12 inch direct view storage tube (DVST) for 1024x780 addressable vector graphics, keyboard, and a 3M DC300 tape drive for program storage.  
+The tape slot in the 4051 is to the right of the display in the photo.
+A Tektronix 4924 GPIB Tape Drive is to the right of the 4051 in the photo.
 
 ![Label and PCB front](./4051%20and%204924%20on%20EBAY%20for%204000.jpg)
 
