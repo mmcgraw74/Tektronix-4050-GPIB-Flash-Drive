@@ -9,6 +9,6 @@ My first hardware version was based on Emanuele Girlando's Arduino GPIB sketch w
 http://egirland.blogspot.com/2014/03/arduino-uno-as-usb-to-gpib-controller.html
 
 My prototype of this hardware looked like this: 
-![Label and PCB front](./My-GPIB-Flash-Drive1.jpg)
+![Label and PCB front](./My-GPIB-Flash-Drive1.jpeg)
 
 
