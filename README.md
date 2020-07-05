@@ -35,7 +35,7 @@ The first column shows that Tektronix used GPIB addresses beyond the standard 30
 
 ![Label and PCB front](./Tek%20basic%20primary%20addresses.png)
 
-I have underlined in yellow the commands needed for the tape emulator:
+I have underlined in yellow the GPIB secondary addresses (commands) needed for the tape emulator:
 
 ![Label and PCB front](./Tek%20GPIB%20commands%20needed%20for%20tape%20emulator.png)
 
