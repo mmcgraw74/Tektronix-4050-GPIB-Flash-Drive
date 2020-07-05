@@ -36,6 +36,10 @@ Here is a table of Tektronix 4050 BASIC GPIB Primary/Secondary addresses:
 
 ![Label and PCB front](./Tek%20basic%20primary%20addresses.png)
 
+I have underlined in yellow the commands needed for the tape emulator:
+
+![Label and PCB front](./Tek%20GPIB%20commands%20needed%20for%20tape%20emulator.png)
+
 Later GPIB devices from Tektronix and other companies did not support secondary GPIB addresses and used a GPIB command-based protocol.
 
 Therefore this project will not have broad applicability for other computers with GPIB interfaces.
