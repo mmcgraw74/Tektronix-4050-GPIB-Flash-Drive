@@ -8,7 +8,7 @@ http://www.vcfed.org/forum/showthread.php?64018-Tektronix-405x-GPIB-Flash-Drive&
 My first hardware version was based on Emanuele Girlando's Arduino GPIB sketch which can be found here:
 http://egirland.blogspot.com/2014/03/arduino-uno-as-usb-to-gpib-controller.html
 
-My prototype of this hardware looked like this: 
+My prototype of this hardware with an Arduino Nano: 
 ![Label and PCB front](./My-GPIB-Flash-Drive1.jpeg)
 
 
