@@ -56,6 +56,6 @@ My first prototype of this hardware with an Arduino Nano with a microSD card and
 
 I had to move some of the GPIB pins in Emanuele's layout to attach the microSD card to the SPI interface.
 
-However, Emanuele's Arduino code only supports GPIB controller - and for my project I need the tape emulator to be a GPIB device, as the 4050 series computers must be the GPIB controller.
+However, Emanuele's Arduino code only supports GPIB controller mode - and for my project I need the tape emulator to be a GPIB device, as the 4050 series computers must be the GPIB controller.
 
 
