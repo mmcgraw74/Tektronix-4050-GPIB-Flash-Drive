@@ -1,4 +1,4 @@
-My latest Tape Emulator PCB
+My latest Tektronix 4924 Tape Emulator PCB
 ---------------
 The GPIB connector is mounted on the bottom of my Tektronix 4924 Tape Emulator PCB and a Pandanuino 644-Narrow board on top to run my Arduino program plus a Pololu MicroSD adapter above the 644-Narrow board to hold all the Tektronix 4050 programs in multiple directories - one for each 'tape'.
 
