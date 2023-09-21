@@ -1,4 +1,4 @@
-My 4050 GPIB Flash Drive for all the Tektronix 4050 computers is now ready for ordering!!
+My 4050 GPIB Flash Drive for all the Tektronix 4050 computers is now ready for ordering - or build it yourself!!
 ------------------
 ![Flash Drive](./Tektronix%204050%20Flash%20Drive-labeled.jpg)
 --------------------
@@ -19,7 +19,13 @@ a. FIND, MARK, KILL, OLD, BOLD, SAVE, BSAVE, APPEND, BAPPEN, PRINT, INPUT, READ,
 11. Flash Drive AUTO LOAD – uses the RTC (Real-Time-Clock) Option (included in the 4052/4054 Multi-Function Option ROM available separately) to AUTO LOAD your 4050 computer at power-on to your Favorite Directory which is the last directory you selected from the Main Menu
 12. Flash Drive Micro-USB power cord included. USB 5V 1A power adapter is not included as it requires a country specific power connector.
 13. One Flash Drive zip file with the all the latest ‘tapes’ and programs can be downloaded from the internet and be unzipped to your MicroSD card to update your Flash Drive.
+14. Vectrex joystick controller interface added!
+    
 ************
+Sept 21, 2023 update:
+
+New Feature - Vectrex joystick controller interface added (see latest Flash Drive user manual for details)
+
 Oct 2 2022 Flash Drive update - New Features and Fixes:
 
 New Features:
