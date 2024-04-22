@@ -21,6 +21,18 @@ a. FIND, MARK, KILL, OLD, BOLD, SAVE, BSAVE, APPEND, BAPPEN, PRINT, INPUT, READ,
 13. One Flash Drive zip file with the all the latest ‘tapes’ and programs can be downloaded from the internet and be unzipped to your MicroSD card to update your Flash Drive.
 14. *** Added Vectrex Joystick interface to Flash Drive Firmware ***
 ************
+April 22,2024 update - New Features and Fixes:
+New Features:
+- Added Benchmark directory
+- Updated Asteroids WIP with new programs
+- Updated and added new BMP images
+- Added 19 programs to Utilities including - FIVE Color Demo for my 4054A with OPTION 31 Color Enhanced Display
+
+Fixes:
+- Completely updated this repo including posting a new GPIB Flash Drive firmware image with firmware update instructions in the README
+- Latest firmware including Gamepad support can be updated on all GPIB Flash Drives with Pandauino 644-Narrow and 1284-Narrow
+
+************
 Oct 5 2023 Flash Drive zip file update - New Features and Fixes:
 
 New Features:
